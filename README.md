@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C# and python...
 - 💞️ I’m looking to collaborate on github with open source projects for better experiences...
 - 📫 Contact Me at:   informationaltricks@gmail.com
-- 
 
 <!---
 Umer-Farooq-NFC/Umer-Farooq-NFC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
